@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**HeroinRaisins/heroinraisins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
 
-Here are some ideas to get you started:
+img {
+  width: 150px;
+  height: 150ps;
+}
+</style>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/avaForAll.png" />
+
+</div>
+
+### ✨ Привет, я Виктор ✨
+
+👁️ **Анализирую графики** · ⚡ **Чиню системы**
+
+---
+
+### 📝 Обо мне
+
+- 👁️ Проектирую и анализирую графики с помощью Grafana
+- ⚙️ Настраиваю тригеры и ивенты в Zabbix
+- 📬 Связь: **Telegram:** [виктор](https://t.me/HeroinRaisins) | **Discord:** Heroin Raisins (heroinraisins)
+
+---
+
+### ⚙️ Инструменты
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+</p>
+
+---
+
+### 📊 Активность
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=heroinraisins&show_icons=true&theme=dark)
+
+</div>
