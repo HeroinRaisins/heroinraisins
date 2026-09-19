@@ -1,13 +1,7 @@
 <div align="center">
   
-<style>
-img {
-  width: 150px;
-  height: 150px;
-}
-</style>
+<img width="150" height="150" alt="avaForAll" src="./assets/avaForAll.png" />
 
-<img src="./assets/avaForAll.png" />
 </div>
 
 ### ✨ Привет, я Виктор ✨
