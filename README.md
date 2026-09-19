@@ -25,13 +25,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
 </p>
-
----
-
-### 📊 Активность
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=heroinraisins&show_icons=true&theme=dark)
-
-</div>
