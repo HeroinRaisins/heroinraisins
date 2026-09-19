@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="150" height="150" alt="avaForAll" src="./assets/avaForAll.png" />
+<img width="250" height="250" alt="avaForAll" src="./assets/avaForAll.png" />
 
 </div>
 
