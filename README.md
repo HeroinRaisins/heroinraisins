@@ -1,4 +1,4 @@
-
+<div align="center">
 <style>
 
 img {
@@ -6,7 +6,7 @@ img {
   height: 150ps;
 }
 </style>
-<div align="center">
+
 
 <img src="./assets/avaForAll.png" />
 
